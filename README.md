@@ -1,4 +1,4 @@
-# Intro to Git
+# Intro to Git 1
 
 ## English
 The project, which was created for implementation step-by-step guidelines for learning Git.
